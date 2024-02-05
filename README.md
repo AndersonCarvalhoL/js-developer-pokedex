@@ -3,7 +3,11 @@
 ![Preview](/.github/Preview.png)
 
 
-- [Clique aqui para acessar!]()
+>## Atualizações
+- Plano de fundo
+- Adicionado logo Pokédex
+- Botão para mostrar mais informações
+- Link do github
 
 >## Tecnologias
 - JavaScript
